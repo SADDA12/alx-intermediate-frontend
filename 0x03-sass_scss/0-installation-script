@@ -1,0 +1,5 @@
+1. Confirmed Node.js was already installed using:
+   node -v
+
+2. Installed Sass using:
+   npm install -g sass
